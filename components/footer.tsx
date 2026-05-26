@@ -129,16 +129,16 @@ export function Footer() {
               </li>
               <li className="flex items-start gap-3">
                 <Mail className="w-5 h-5 text-amber-400 shrink-0 mt-0.5" />
-                <p className="text-white/60">contato@lmrseguros.com.br</p>
+                <p className="text-white/60">contato@corretoralmr.com.br</p>
               </li>
               {/* Redericiona para o email com assunto preenchido */}
               {/* <li className="flex items-start gap-3">
                 <Mail className="w-5 h-5 text-amber-400 shrink-0 mt-0.5" />
                 <a
-                  href="mailto:contato@lmrseguros.com.br?subject=Solicitação%20de%20Cotação&body=Olá,%20gostaria%20de%20mais%20informações%20sobre%20os%20planos%20de%20saúde."
+                  href="mailto:contato@corretoralmr.com.br?subject=Solicitação%20de%20Cotação&body=Olá,%20gostaria%20de%20mais%20informações%20sobre%20os%20planos%20de%20saúde."
                   className="text-white/60 hover:text-amber-400 transition-colors"
                 >
-                  contato@lmrseguros.com.br
+                  contato@corretoralmr.com.br
                 </a>
               </li> */}
               <li className="flex items-start gap-3">
