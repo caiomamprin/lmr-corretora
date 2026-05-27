@@ -163,6 +163,9 @@ export function Footer() {
               Todos os direitos reservados.
             </p>
             <p className="text-white/40 text-sm">
+              CNPJ: 28.904.576/0001-00
+            </p>
+            <p className="text-white/40 text-sm">
               Desenvolvido por Caio Henrique Mamprin
             </p>
           </div>
